@@ -6,8 +6,6 @@ after the call it should store [42, 42, 7, 7, 0, 0, -3, -3, 15, 15].
 Assume you are adding to the ArrayIntList class with following members:
  */
 
-import java.util.ArrayList;
-
 public class Lab1 {
 
     private int[] elementData;
@@ -30,9 +28,11 @@ public class Lab1 {
     }
 
 
-    // your code goes here
+    // YOUR CODE GOES HERE
+    // This is the method that is being asked
+
     public void stutter() {
-        int[] newElements = new int[size*2];
+        int[] newElements = new int[size * 2];
         int i = 0;
         for (int j = 0; j < size; j++) {
             newElements[i] = elementData[j];
