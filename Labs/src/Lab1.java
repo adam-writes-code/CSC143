@@ -10,7 +10,7 @@ public class Lab1 {
 
     private int[] elementData;
     private int size;
-
+/*
     // construct a new empty list of capacity 10
     public ArrayIntList() {
     }
@@ -26,7 +26,7 @@ public class Lab1 {
     // ensure that elementData.length >= capacity
     private void ensureCapacity(int capacity) {
     }
-
+*/
 
     // YOUR CODE GOES HERE
     // This is the method that is being asked
