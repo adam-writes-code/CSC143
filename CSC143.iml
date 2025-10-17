@@ -7,6 +7,8 @@
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ArrayIntListDemo" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Mini-Project Bank" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LinkedListDemo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Project 1" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

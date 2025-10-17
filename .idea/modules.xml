@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArrayListDemo/ArrayListDemo.iml" filepath="$PROJECT_DIR$/ArrayListDemo/ArrayListDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/CSC143.iml" filepath="$PROJECT_DIR$/CSC143.iml" />
       <module fileurl="file://$PROJECT_DIR$/Labs/Labs.iml" filepath="$PROJECT_DIR$/Labs/Labs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedListDemo/LinkedListDemo.iml" filepath="$PROJECT_DIR$/LinkedListDemo/LinkedListDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mini-Project Bank/Mini-Project Bank.iml" filepath="$PROJECT_DIR$/Mini-Project Bank/Mini-Project Bank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Project 1/Project 1.iml" filepath="$PROJECT_DIR$/Project 1/Project 1.iml" />
     </modules>
   </component>
 </project>
